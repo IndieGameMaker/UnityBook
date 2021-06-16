@@ -1,6 +1,8 @@
 
 # 절대강좌! 유니티 - 2021
 
+책에서 사용할 리소스는 반드시 아래 링크 주소에서 다운로드 받아서 사용해주세요.
+
 ![UnityBook2021 Cover](http://IndieGameMaker.github.io/images/books/unity2021_3D_800600.png)
 
 Q&A는 [www.Unity3dStudy.com](http://www.unity3dstudy.com) 에 글을 남겨주세요.
