@@ -11,7 +11,7 @@
 
 ![UnityBook2021 Cover](http://IndieGameMaker.github.io/images/books/unity2021_3D_800600.png)
 
-Q&A는 [www.Unity3dStudy.com](http://www.unity3dstudy.com) 에 글을 남겨주세요.
+Q&A는 [www.Unity3dStudy.com](https://unity3dstudy.com/2021/06/09/UnityBook-2021-Published/#more) 에 글을 남겨주세요.
 <!-- 오탈자는 [] 에서 확인할 수 있습니다. -->
 
 ## 프로젝트 소스코드
