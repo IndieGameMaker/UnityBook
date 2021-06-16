@@ -8,7 +8,8 @@ Q&A는 [www.Unity3dStudy.com](http://www.unity3dstudy.com) 에 글을 남겨주�
 
 ## 리소스 파일
 
-- [2장에서 15장까지 사용하는 리소스 파일](https://1drv.ms/u/s!Asker0nVo1TS9NEBlRjDVf3Bj8Z5Qg?e=V5Nn8p)
+- [2장에서 12장까지 사용하는 리소스 파일](https://1drv.ms/u/s!Asker0nVo1TS9NEBlRjDVf3Bj8Z5Qg?e=V5Nn8p)
+- [15장에서 사용하는 리소스 파일(AngryBotResources.unitypackage)](https://1drv.ms/u/s!Asker0nVo1TS9NFWfdxKcpSuChdy3A?e=dZceJ3)
 - [15장에서 사용할 수 있는 템플릿 파일](https://1drv.ms/u/s!Asker0nVo1TS9ItvcuBpVsbs5cHntA?e=6SoDZT)
 
 ## 프로젝트 소스코드
