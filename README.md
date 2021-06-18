@@ -43,3 +43,5 @@ Q&A는 [www.Unity3dStudy.com](https://unity3dstudy.com/2021/06/09/UnityBook-2021
 - [완결된 프로젝트](https://github.com/IndieGameMaker/AngryBot2Net)
 
 ### 오탈자 확인
+
+- [오탈자 확인](https://github.com/IndieGameMaker/UnityBook/issues/1)
