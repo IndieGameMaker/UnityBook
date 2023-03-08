@@ -5,7 +5,7 @@
 
 책에서 사용할 리소스는 아래 링크 주소(원드라이브)에서 다운로드 받아서 사용해주세요.
 
-- [2장에서 15장까지 사용하는 리소스 파일 (깃허브 다운로드)](https://github.com/IndieGameMaker/UnityBook/blob/master/Resources.zip) 또는 [원드라이브 다운로드](https://1drv.ms/u/s!Asker0nVo1TS9NEBlRjDVf3Bj8Z5Qg?e=V5Nn8p)
+- [2장에서 15장까지 사용하는 리소스 파일 (깃허브 다운로드)](https://github.com/IndieGameMaker/UnityBook/raw/master/Resources.zip) 또는 [원드라이브 다운로드](https://1drv.ms/u/s!Asker0nVo1TS9NEBlRjDVf3Bj8Z5Qg?e=V5Nn8p)
 - [15장에서 사용하는 리소스 파일(AngryBotResources.unitypackage)](https://1drv.ms/u/s!Asker0nVo1TS9NFWfdxKcpSuChdy3A?e=dZceJ3)
 - [15장에서 사용할 수 있는 템플릿 파일](https://1drv.ms/u/s!Asker0nVo1TS9ItvcuBpVsbs5cHntA?e=6SoDZT)
 
