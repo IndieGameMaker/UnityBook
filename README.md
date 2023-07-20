@@ -9,7 +9,7 @@
 - [15장에서 사용하는 리소스 파일(AngryBotResources.unitypackage)](https://1drv.ms/u/s!Asker0nVo1TS9NFWfdxKcpSuChdy3A?e=dZceJ3)
 - [15장에서 사용할 수 있는 템플릿 파일](https://1drv.ms/u/s!Asker0nVo1TS9ItvcuBpVsbs5cHntA?e=6SoDZT)
 
-![UnityBook2021 Cover](http://IndieGameMaker.github.io/images/books/unity2021_3D_800600.png)
+![UnityBook2021 Cover](unity2021_3D_800600.png)
 
 Q&A는 [www.Unity3dStudy.com](https://unity3dstudy.com/2021/06/09/UnityBook-2021-Published/#more) 에 글을 남겨주세요.
 <!-- 오탈자는 [] 에서 확인할 수 있습니다. -->
